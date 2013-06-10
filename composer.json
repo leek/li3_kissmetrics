@@ -1,0 +1,22 @@
+{
+    "name": "servicerunner/li3_kissmetrics",
+    "type": "lithium-library",
+    "description": "Simple Kissmetrics integration for Lithium",
+    "keywords": ["kissmetrics", "li3", "lithium"],
+    "homepage": "https://github.com/ServiceRunner/li3_debug",
+    "authors": [
+        {
+            "name": "Chris Jones",
+            "email": "leeked@gmail.com",
+            "homepage": "https://github.com/leek"
+        },
+        {
+            "name": "Contributors",
+            "homepage": "https://github.com/ServiceRunner/li3_kissmetrics/contributors"
+        }
+    ],
+    "require": {
+        "composer/installers": "*",
+        "kissmetrics/kissmetrics": "dev-master"
+    }
+}
