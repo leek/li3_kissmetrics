@@ -3,7 +3,7 @@
     "type": "lithium-library",
     "description": "Simple Kissmetrics integration for Lithium",
     "keywords": ["kissmetrics", "li3", "lithium"],
-    "homepage": "https://github.com/ServiceRunner/li3_debug",
+    "homepage": "https://github.com/ServiceRunner/li3_kissmetrics",
     "authors": [
         {
             "name": "Chris Jones",
