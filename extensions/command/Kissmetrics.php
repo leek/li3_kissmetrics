@@ -1,6 +1,6 @@
 <?php
 
-namespace li3_debug\extensions\command;
+namespace li3_kissmetrics\extensions\command;
 
 use lithium\core\Environment;
 use \KM;
